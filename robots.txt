@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bleyoura.github.io/sitemap.xml
+Sitemap: https://bleyoura.github.io/app/sitemap.xml
+Sitemap: https://bleyoura.github.io/assets/sitemap.xml
+Sitemap: https://bleyoura.github.io/css/sitemap.xml
+Sitemap: https://bleyoura.github.io/includes/sitemap.xml
+Sitemap: https://bleyoura.github.io/item/sitemap.xml
+Sitemap: https://bleyoura.github.io/src/sitemap.xml
